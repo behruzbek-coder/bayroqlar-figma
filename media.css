@@ -1,0 +1,11 @@
+@media (max-width:375px){
+        .main{
+                width: 1200px;
+                flex-wrap: wrap;
+
+        }  
+        .nav__list{
+                
+                flex-wrap: wrap;
+        }    
+}
